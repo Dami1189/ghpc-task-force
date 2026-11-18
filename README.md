@@ -118,7 +118,7 @@ Defaults. Change them in F7 > Keys. A key another mod already uses is pointed ou
 | F7 | The Task Force window. In a mission: the player table, vote someone out, restart. |
 | / | Chat. Enter sends, Esc cancels. |
 | Middle mouse | Tap: ping where you look. Hold: the orders wheel. |
-| ` ~ (left of 1) | Push to talk |
+| `~ (left of 1) | Push to talk | (can be rebound in F7>Keys) - note on realistic setting of radio the range will drop, and two people cannot talk at the same time! this is **intended**. Use simple mode for basic voice chat.
 | Alt+Y | Tow cable. Near a teammate, both press it and the one in front tows. Near a knocked-out tank of your side, one press. Again to unhook. |
 | K | Help a teammate who's repairing (Combat Overhaul's repair key) |
 | Alt+T | Knocked out? Take over a free tank on your side. |
@@ -128,7 +128,7 @@ Defaults. Change them in F7 > Keys. A key another mod already uses is pointed ou
 
 | | |
 |---|---|
-| **Must match the host, same version** | Task Force itself. Gameplay mods: vehicle mods, Pact Increased Lethality, Fulda 1989, Combat Overhaul. |
+| **Must match the host, same version** | Task Force itself. Gameplay mods: vehicle mods, Pact Increased Lethality, Fulda 1989, Combat Overhaul, or other gameplay-changing mods. |
 | **Recommended** | Visual mods. Phase Line: you need it when the host picks a Phase Line mission. |
 | **Yours, nobody checks** | UI mods. |
 
